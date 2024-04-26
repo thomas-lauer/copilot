@@ -3,7 +3,8 @@
 *   [Dokumentation zu Microsoft Copilot für Microsoft 365 | Microsoft Learn](https://learn.microsoft.com/de-de/microsoft-365-copilot/?culture=en-us&country=us)
 *   [Microsoft Copilot für Microsoft 365 Übersicht | Microsoft Learn](https://learn.microsoft.com/de-de/microsoft-365-copilot/microsoft-365-copilot-overview)
 *   [Microsoft Copilot-Hilfe & Lernen](https://support.microsoft.com/de-de/copilot)  
-
+<br>
+<br>
 Nützliche Links zu Copilot  
 <br>
 | **Anwendung** | **Links** |
