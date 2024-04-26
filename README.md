@@ -5,7 +5,7 @@
 *   [Microsoft Copilot-Hilfe & Lernen](https://support.microsoft.com/de-de/copilot)  
 
 Nützliche Links zu Copilot  
-   
+<br>
 | **Anwendung** | **Links** |
 | --- | --- |
 | Copilot Word | [Copilot in Word-Hilfe & Lernen](https://support.microsoft.com/de-de/copilot-word) |
