@@ -6,8 +6,8 @@
 <br>
 <br>
 Nützliche Links zu Copilot  
-<br>
-| **Anwendung** | **Links** |
+
+**Anwendung** | **Links** |
 | --- | --- |
 | Copilot Word | [Copilot in Word-Hilfe & Lernen](https://support.microsoft.com/de-de/copilot-word) |
 | Copilot Outlook | [Copilot in Outlook Hilfe & Lernen](https://support.microsoft.com/de-de/copilot-outlook) |
