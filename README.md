@@ -6,7 +6,7 @@
 
 | **Feature** | **Links** |
 | --- | --- |
-| Copilot Word | [Copilot in Word-Hilfe & Lernen].(https://support.microsoft.com/de-de/copilot-word) |
+| Copilot Word | [Copilot in Word-Hilfe & Lernen](https://support.microsoft.com/de-de/copilot-word) |
 | Copilot Outlook | Copilot in Outlook Hilfe & Lernen (microsoft.com) |
 | Copilot Powerpoint | Copilot in PowerPoint Hilfe & Lernen (microsoft.com) |
 | Copilot Excel | Copilot in Excel – Hilfe & Lernen (microsoft.com) |
