@@ -9,7 +9,7 @@ Nützliche Links zu Copilot
 
 # Anwender
 |Anwendung|Links|
-| --- | --- |
+|:----|:----|
 | Copilot Word | [Copilot in Word-Hilfe & Lernen](https://support.microsoft.com/de-de/copilot-word) |
 | Copilot Outlook | [Copilot in Outlook Hilfe & Lernen](https://support.microsoft.com/de-de/copilot-outlook) |
 | Copilot Powerpoint | [Copilot in PowerPoint Hilfe & Lernen](https://support.microsoft.com/de-de/copilot-powerpoint) |
@@ -23,8 +23,8 @@ Nützliche Links zu Copilot
 
 # Technik  
 ## Technical Prep Guides and Adoption Journeys
-| **Links** |
-| --- |
+|Links|
+|:----|
 | [The AI-Powered Future of Work](https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot?fbclid=iwzxh0bgnhzw0cmtaaar231jqf39nyri5rbhzvof_vrhul9s_rha_wljmfa3yp6lsvzquj1c9f91a_aem_areizvfwdluo_n_vvhh1x_8ygvek5tdxolvncfhaxjykp_emndi2ziu5h9srux3qffirfa731rx_a8lxqbjbqehh) |
 |[Accelerate your AI journey with our Copilot Success Kit](https://adoption.microsoft.com/en-us/copilot/success-kit/?fbclid=IwZXh0bgNhZW0CMTAAAR2oje1PuRtN-gFx33F9s6ogQxzHcS0Yvlexdl9Uvy2L7o_96C8oeoxWuVk_aem_AReJ3s9umtzrFY2uZO9G8IlLMPuftesO16rSBtVDFr1msP8FJjonG5U59ue0iWt30vkOIgc_DCn-2M2VPTJXvbR6)|
 |[Downloads der Copilot-Szenariobibliothek](https://adoption.microsoft.com/de-de/copilot-scenario-library/downloads/?fbclid=IwZXh0bgNhZW0CMTAAAR37eJV4tOcwIC5IllevIrCg1Nf-0jwFBPziiuERoxcPkkC0E65b6pra7mU_aem_ARcWC9buIeCO1Ilb2sBIwAWRvJrG67pXO7_kineHQ2Wn17THwvtHHgDgLpyUH2a7fuXveVaLcpmF11p_6uHlx8AX)|
