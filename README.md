@@ -1,3 +1,6 @@
+## Wo finden wir überall copilot
+[Übersicht](https://github.com/thomas-lauer/copilot/blob/main/looking_for_copilot.md)
+
 ## Wenn du mehr über Copilot für Microsoft 365 wissen willst und wie du damit loslegen kannst, check mal diese nützlichen Links aus:
 
 *   [Dokumentation zu Microsoft Copilot für Microsoft 365 | Microsoft Learn](https://learn.microsoft.com/de-de/microsoft-365-copilot/?culture=en-us&country=us)
