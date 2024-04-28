@@ -1,4 +1,4 @@
-##Wenn du mehr über Copilot für Microsoft 365 wissen willst und wie du damit loslegen kannst, check mal diese nützlichen Links aus:
+## Wenn du mehr über Copilot für Microsoft 365 wissen willst und wie du damit loslegen kannst, check mal diese nützlichen Links aus:
 
 *   [Dokumentation zu Microsoft Copilot für Microsoft 365 | Microsoft Learn](https://learn.microsoft.com/de-de/microsoft-365-copilot/?culture=en-us&country=us)
 *   [Microsoft Copilot für Microsoft 365 Übersicht | Microsoft Learn](https://learn.microsoft.com/de-de/microsoft-365-copilot/microsoft-365-copilot-overview)
@@ -7,7 +7,7 @@
 <br>
 Nützliche Links zu Copilot  
 
-#Anwender
+# Anwender
 |Anwendung|Links|
 | --- | --- |
 | Copilot Word | [Copilot in Word-Hilfe & Lernen](https://support.microsoft.com/de-de/copilot-word) |
@@ -22,7 +22,7 @@ Nützliche Links zu Copilot
 | Microsoft 365 Chat | [Microsoft Copilot ist in Ihren Arbeitsdaten verankert](https://support.microsoft.com/de-de/copilot-microsoft365-chat) |
 
 # Technik  
-##Technical Prep Guides and Adoption Journeys
+## Technical Prep Guides and Adoption Journeys
 | **Links** |
 | --- |
 | [The AI-Powered Future of Work](https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot?fbclid=iwzxh0bgnhzw0cmtaaar231jqf39nyri5rbhzvof_vrhul9s_rha_wljmfa3yp6lsvzquj1c9f91a_aem_areizvfwdluo_n_vvhh1x_8ygvek5tdxolvncfhaxjykp_emndi2ziu5h9srux3qffirfa731rx_a8lxqbjbqehh) |
