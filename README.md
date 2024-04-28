@@ -8,7 +8,7 @@
 Nützliche Links zu Copilot  
 
 #Anwender
-**Anwendung** | **Links** |
+|Anwendung|Links|
 | --- | --- |
 | Copilot Word | [Copilot in Word-Hilfe & Lernen](https://support.microsoft.com/de-de/copilot-word) |
 | Copilot Outlook | [Copilot in Outlook Hilfe & Lernen](https://support.microsoft.com/de-de/copilot-outlook) |
@@ -21,7 +21,7 @@ Nützliche Links zu Copilot
 | Welcome to Copilot in Windows | [Welcome to Copilot in Windows - Microsoft Support](https://support.microsoft.com/en-us/windows/welcome-to-copilot-in-windows-675708af-8c16-4675-afeb-85a5a476ccb0) |
 | Microsoft 365 Chat | [Microsoft Copilot ist in Ihren Arbeitsdaten verankert](https://support.microsoft.com/de-de/copilot-microsoft365-chat) |
 
-# Technik
+# Technik  
 ##Technical Prep Guides and Adoption Journeys
 | **Links** |
 | --- |
