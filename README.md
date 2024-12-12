@@ -35,7 +35,7 @@ Nützliche Links zu Copilot
 
 
 # Eigene CoPilot Agenten erstellen
-(Developer’s guide to building your own agents)[https://www.youtube.com/watch?v=yb72XC3ujdI]   
+[Developer’s guide to building your own agents][(https://www.youtube.com/watch?v=yb72XC3ujdI)   
 (Introducing the Microsoft 365 Agents SDK)[https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-365-agents-sdk/?ocid=]  
 (Erweitern Microsoft 365 Copilot mit deklarativen Agents mithilfe von Visual Studio Code)[https://learn.microsoft.com/de-de/training/paths/copilot-microsoft-365-declarative-agents-visual-studio-code/]  
 (Erstellen von benutzerdefinierten Agents für Microsoft Teams)[https://learn.microsoft.com/de-de/training/paths/build-custom-copilots-microsoft-teams/]  
