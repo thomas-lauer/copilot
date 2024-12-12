@@ -32,3 +32,10 @@ Nützliche Links zu Copilot
 |[Accelerate your AI journey with our Copilot Success Kit](https://adoption.microsoft.com/en-us/copilot/success-kit/?fbclid=IwZXh0bgNhZW0CMTAAAR2oje1PuRtN-gFx33F9s6ogQxzHcS0Yvlexdl9Uvy2L7o_96C8oeoxWuVk_aem_AReJ3s9umtzrFY2uZO9G8IlLMPuftesO16rSBtVDFr1msP8FJjonG5U59ue0iWt30vkOIgc_DCn-2M2VPTJXvbR6)|
 |[Downloads der Copilot-Szenariobibliothek](https://adoption.microsoft.com/de-de/copilot-scenario-library/downloads/?fbclid=IwZXh0bgNhZW0CMTAAAR37eJV4tOcwIC5IllevIrCg1Nf-0jwFBPziiuERoxcPkkC0E65b6pra7mU_aem_ARcWC9buIeCO1Ilb2sBIwAWRvJrG67pXO7_kineHQ2Wn17THwvtHHgDgLpyUH2a7fuXveVaLcpmF11p_6uHlx8AX)|
 |[Deploying Copilot for Microsoft 365 in four chapters](https://www.microsoft.com/insidetrack/blog/deploying-copilot-for-microsoft-365-in-four-chapters/?fbclid=IwZXh0bgNhZW0CMTAAAR1y3uiS4rvRiubdSlzRST1SB3KA52YNQ4I2abL3fc_FfthUfqi2cfWkgUU_aem_ARf36tX8TN6Z7oAApjKcBOoFqxTPl0_8OKkxz20_1Y31Y2LG_FLDwVIcaU3QcJ-PcYI0McT1d8sEQsVFpVqdhUNw)|
+
+
+# Eigene CoPilot Agenten erstellen
+(Developer’s guide to building your own agents)[https://www.youtube.com/watch?v=yb72XC3ujdI]   
+(Introducing the Microsoft 365 Agents SDK)[https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-365-agents-sdk/?ocid=]  
+(Erweitern Microsoft 365 Copilot mit deklarativen Agents mithilfe von Visual Studio Code)[https://learn.microsoft.com/de-de/training/paths/copilot-microsoft-365-declarative-agents-visual-studio-code/]  
+(Erstellen von benutzerdefinierten Agents für Microsoft Teams)[https://learn.microsoft.com/de-de/training/paths/build-custom-copilots-microsoft-teams/]  
